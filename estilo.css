@@ -1,0 +1,36 @@
+
+.center{
+    text-align: center;
+}
+
+body {
+    
+    /*familia de fuente*/
+    /*font-family: 'Courier New', Courier, monospace;
+
+    /*tamaño de fuente px - em*/
+    /*font-size: 1,3 em;
+
+    /*grosor de la fuente*/
+    /*font-weight: 500;
+
+    /*estilo de la fuente*/
+    /*font-style: italic;
+
+}
+h1{
+    font-size: 3 em;
+    /*espacio entre caracteres*/
+    /*letter-spacing: 5px;
+    /*alineacion de texto*/
+    /*text-align: center;
+
+}
+.alineacion-imagen{
+    /*flota una imagen left-right*/
+    /*float: right;
+    /*ancho*/
+    /*width: 1000px;
+    /*alto*/
+    /*height: 150px;
+}
