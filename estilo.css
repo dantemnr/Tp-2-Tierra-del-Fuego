@@ -8,6 +8,11 @@ table, th, td {
     border-collapse: collapse;
 }
 body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+}
+body{
+    background-image: url("imagenes/tierradelfuego.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
